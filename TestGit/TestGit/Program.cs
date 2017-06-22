@@ -13,6 +13,7 @@ namespace TestGit
             Console.WriteLine("Master");//2222
             Console.WriteLine("111");
             Console.WriteLine("333");
+            Console.WriteLine("444");
             Console.ReadKey();
         }
     }
