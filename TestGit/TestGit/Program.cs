@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Master");
+            Console.WriteLine("111");
             Console.ReadKey();
         }
     }
