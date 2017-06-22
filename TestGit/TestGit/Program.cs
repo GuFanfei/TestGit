@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Master");
+            Console.WriteLine("Master");//2222
             Console.ReadKey();
         }
     }
