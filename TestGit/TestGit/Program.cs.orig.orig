@@ -14,9 +14,17 @@ namespace TestGit
             Console.WriteLine("111");
             Console.WriteLine("333");
             Console.WriteLine("444");
+<<<<<<< HEAD
+<<<<<<< HEAD
             Console.WriteLine("666");//666
+            Console.WriteLine("777");
+=======
+            Console.WriteLine("777");//777
+>>>>>>> 11
+=======
             Console.WriteLine("777");//777
             Console.WriteLine("666");
+>>>>>>> 66
             Console.ReadKey();
         }
     }
