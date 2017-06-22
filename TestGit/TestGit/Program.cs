@@ -15,6 +15,7 @@ namespace TestGit
             Console.WriteLine("333");
             Console.WriteLine("444");
             Console.WriteLine("666");//666
+            Console.WriteLine("777");
             Console.ReadKey();
         }
     }

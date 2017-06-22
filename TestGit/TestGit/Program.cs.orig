@@ -10,12 +10,15 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Master");//2222
-=======
-            Console.WriteLine("Master");
             Console.WriteLine("111");
->>>>>>> origin/顾范飞_20170622_One
+            Console.WriteLine("333");
+            Console.WriteLine("444");
+<<<<<<< HEAD
+            Console.WriteLine("666");//666
+=======
+            Console.WriteLine("777");
+>>>>>>> 777
             Console.ReadKey();
         }
     }
